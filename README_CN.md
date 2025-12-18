@@ -1,6 +1,6 @@
 # poolfactory
 
-[![CI](https://github.com/YOUR_USERNAME/poolfactory/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/poolfactory/actions/workflows/ci.yml)
+[![CI](https://github.com/wzxzhuxi/poolfactory/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/poolfactory/actions/workflows/ci.yml)
 
 一个 C++20 函数式资源池库。通过工厂 lambda 创建连接池、线程池、内存池或任意池化资源。
 

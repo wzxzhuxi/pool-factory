@@ -1,6 +1,6 @@
 # poolfactory
 
-[![CI](https://github.com/YOUR_USERNAME/poolfactory/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/poolfactory/actions/workflows/ci.yml)
+[![CI](https://github.com/wzxzhuxi/poolfactory/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/poolfactory/actions/workflows/ci.yml)
 
 [中文文档](README_CN.md)
 
