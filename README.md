@@ -208,6 +208,15 @@ cmake --build build
 - C++20 编译器（GCC 10+、Clang 12+、MSVC 2019+）
 - CMake 3.20+
 
+## 教程
+
+详细的教程文档请参阅 [docs/tutorial.md](docs/tutorial.md)，包含：
+- 设计哲学与核心概念
+- 逐步构建指南
+- 使用模式与最佳实践
+- 实战案例
+- 设计决策与权衡分析
+
 ## 许可证
 
 MIT License

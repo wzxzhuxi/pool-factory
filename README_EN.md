@@ -207,6 +207,15 @@ cmake --build build
 - C++20 compiler (GCC 10+, Clang 12+, MSVC 2019+)
 - CMake 3.20+
 
+## Tutorial
+
+For a detailed tutorial, see [docs/tutorial.md](docs/tutorial.md) (Chinese), covering:
+- Design philosophy and core concepts
+- Step-by-step build guide
+- Usage patterns and best practices
+- Real-world examples
+- Design decisions and trade-offs
+
 ## License
 
 MIT License
